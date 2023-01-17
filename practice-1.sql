@@ -1,7 +1,6 @@
 -- How many reviews are there?
 
-SELECT count(*)
-FROM reviews_data_raw
+SELECT count(*) FROM reviews
 
 -- +----------+
 -- | 302750   |
